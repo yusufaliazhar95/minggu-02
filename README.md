@@ -1,4 +1,4 @@
-# tugas-minggu-02
+minggu-02
 
 dalam bab 4 ini python memperkenalkan kontrol lain dengan beberapa diantaranya:
 
